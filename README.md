@@ -66,14 +66,3 @@
 ### RegressionEvaluation
 | SchemaName  | EvaluationName | ImplementationName | DataLoadingTime | TrainingTime | EvlauationTime |
 
-### Implementations
-| Name      | Author |
-| ----------- | ----------- |
-| Spark      | Vijay |
-| Keras   | Anisha |
-| Scikit-learn   | Anisha |
-| Pytorch   | Anisha |
-|  Matlab Deep Learning Toolbox   | Vijay |
-| ML.NET   | Matt |
-| Mlpack  | Matt |
-| Apache Mahout (MapReduce)   | Matt |
